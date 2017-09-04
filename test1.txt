@@ -9,3 +9,6 @@ Linie kodu:
 8
 9
 10
+Dodatkowe linie kodu
+11
+12
