@@ -18,6 +18,6 @@ Kolejne dodatkowe linie kodu
 Dodatkowe linie od red700
 15
 16
-Dodatkowe linie w ramach new branch
-nw 17
-nw 18
+Dodatkowe linie w ramach master
+m 17
+m 18
