@@ -21,3 +21,6 @@ Dodatkowe linie od red700
 Dodatkowe linie w ramach master
 m 17
 m 18
+Dodatkowe linie od red 700
+19
+20
