@@ -18,3 +18,4 @@ Kolejne dodatkowe linie kodu
 Dodatkowe linie od red700
 15
 16
+Dodatkowe linie w ramach new branch
